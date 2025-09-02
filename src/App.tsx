@@ -10,11 +10,13 @@ function App() {
           imageUrl="https://github.com/leoAraujo20.png"
           name="Leônidas Araújo"
           project="CapiTO"
+          githubUrl="https://github.com/leoAraujo20"
         />
         <Card
           imageUrl="https://github.com/Pepeu-s.png"
           name="Pedro Felipe"
           project="CapiTO"
+          githubUrl="https://github.com/Pepeu-s"
         />
         <Card
           imageUrl="https://github.com/github.png"

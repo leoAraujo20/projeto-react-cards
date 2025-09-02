@@ -21,3 +21,12 @@
 .card p {
   color: #666;
 }
+
+a {
+  color: oklch(49.9% 0.23 264);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
